@@ -367,7 +367,7 @@ export function Guides() {
     }, 
     {
       title: "Key to the Isopoda of Ohio - after 'AAW 1964'",
-      tags: ["USA", "NothAmerica",  ],
+      tags: ["USA", "NorthAmerica",  ],
       author: "Gwynne Stoner Rife",
       free: true, 
       year: "2000",
@@ -385,16 +385,46 @@ export function Guides() {
       type: "Book", 
       language: "en",
     },
-    /* {
-      title: "Isopods of Oman",
-      tags: ["Oman" ],
-      author: "Liliana Sanfilippo",
-      free: true, 
-      year: "",
-      url: "",
-      type: "Article", 
-      language: "en",
-    },  */
+      {
+          title: "Isopoda Dichotomous Key",
+          tags: ["NorthAmerica", "USA", "TerrestrialIsopods"],
+          author: "American Isopod and Myriapod Group",
+          free: true,
+          year: "https://www.americanisopodsmyriapods.com/taxonomic-guide-to-isopods-of-north-america/isopoda",
+          url: "?",
+          type: "Website",
+          language: "en",
+      },
+      {
+          title: "A guide to the coastal isopods of california",
+          tags: ["NorthAmerica", "USA", "LittoralIsopods", "California"],
+          author: "Richard C. Brusca, Vânia R. Coelho, Stefano Taiti",
+          free: true,
+          year: "2001",
+          url: "https://rickbrusca.com/http___www.rickbrusca.com_index.html/Papers_files/Brusca%20et%20al.%202001%20Isopods%20of%20California.pdf",
+          type: "Article",
+          language: "en",
+      },
+      {
+          title: "Asellota - Key to superfamilies in North America",
+          tags: ["NorthAmerica", "FreshwaterIsopods" ],
+          author: "Bug Guide Net",
+          free: true,
+          year: "?",
+          url: "https://bugguide.net/node/view/167233",
+          type: "Website",
+          language: "en",
+      },
+      /* {
+        title: "Isopods",
+        tags: ["Oman" ],
+        author: "Liliana",
+        free: true,
+        year: "",
+        url: "",
+        type: "Article",
+        language: "en",
+      },  */
   ]
   
 
