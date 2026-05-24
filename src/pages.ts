@@ -6,10 +6,11 @@ import { About,
  /*  Morphshighyellow, , */
   artprints, artpottery, artplushie, artstickers, artother, artcomics,
   Morphsmorphs, 
-  Irido, Lungs, Ligia, 
-  LigiaPallasii, FAQ, Shops, Phylo,
+  Irido, Lungs, Ligia, FAQ, Shops, Phylo,
   ArmadillidiumKlugii, Guides, 
   Websites} from "./pages/page-list";
+import {TaxonPageLayout} from "./components/TaxonPageLayout.tsx";
+import React from "react";
 
 interface Base {
     name: string | undefined;
@@ -30,7 +31,7 @@ interface Base {
     name: string | undefined;
     title: string | undefined;
     path: string | undefined;
-    component: React.FC | undefined;
+    component: React.FC | Element | React.ReactNode | undefined;
     navlist?: Array<string> | undefined; 
   }
 
@@ -318,7 +319,7 @@ interface Base {
       name: "Ligia pallasii",
       title: "Ligia pallasii",
       path: "/species/ligia/ligia-pallasii",
-      component: LigiaPallasii,
+      component: Ligia,
     },
     {
       name: "Morphs", /* y */

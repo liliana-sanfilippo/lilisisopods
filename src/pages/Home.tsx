@@ -15,7 +15,7 @@ export function Home() {
                 I collect knowledge and resources about isopods - both for scientific and hobby purposes. 
               </BoldPara>
               <BoldPara>
-              I am always happy for people to contact me. {/* Doing this website alone takes time and I am very open to other people joining. */}
+              I am always happy for people to contact me.  Doing this website alone takes time (that I currently do not have) and I am very open to other people joining.
               </BoldPara>
             </div>
             <SocialRow/>

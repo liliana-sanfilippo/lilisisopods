@@ -11,7 +11,7 @@ export function About() {
         </div>
         <div className="row" style={{marginTop: "20px"}}>
           <h2>Follow my project</h2>
-          <Calendar year={2024}/>
+          <Calendar/>
           </div>
         
       </>
