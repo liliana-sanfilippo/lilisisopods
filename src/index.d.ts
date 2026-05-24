@@ -12,6 +12,7 @@ export * from './components/Artist-Profile.tsx'
 export * from './components/UnderConstruction.tsx'
 export * from './components/Sections.tsx'
 export * from './components/Cards.tsx'
+export * from './components/taxonomy/TaxonPageLayout'
 
 
 export * from './utils/getPathMapping.ts'

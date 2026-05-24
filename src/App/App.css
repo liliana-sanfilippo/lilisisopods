@@ -806,7 +806,6 @@ img{
 figure {
   display: grid;
   justify-content: center;
-  border: var(--accent-dark) 2px solid;
 }
 
 figcaption {

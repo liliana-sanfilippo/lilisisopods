@@ -1,4 +1,4 @@
-import { Pages as pages } from "../pages";
+import { Pages as pages } from "../pages.ts";
 
 export const getPathMapping = () => {
   return pages.reduce<{

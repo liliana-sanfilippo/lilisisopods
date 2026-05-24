@@ -9,7 +9,7 @@ import { About,
   Irido, Lungs, Ligia, FAQ, Shops, Phylo,
   ArmadillidiumKlugii, Guides, 
   Websites} from "./pages/page-list";
-import {TaxonPageLayout} from "./components/TaxonPageLayout.tsx";
+import {TaxonPageLayout} from "./components/taxonomy/TaxonPageLayout.tsx";
 import React from "react";
 
 interface Base {
