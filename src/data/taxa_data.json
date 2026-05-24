@@ -1,0 +1,316 @@
+[
+  {
+    "aphiaID": "1006664",
+    "parentAphiaID": "248316",
+    "rank": "genus",
+    "scientificName": "Uncuniscus",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "subphylum": "Crustacea",
+      "class": "Malacostraca",
+      "subclass": "Eumalacostraca",
+      "order": "Isopoda",
+      "suborder": "Oniscidea",
+      "family": "Spelaeoniscidae",
+      "genus": "Uncuniscus"
+    },
+    "metadata": {
+      "scrutinizer": {
+        "name": "Boyko, Christopher B.",
+        "id": "https://marineinfo.org/id/person/16184",
+        "date": "2023-08-28"
+      },
+      "referenceID": "279123"
+    },
+    "environment": "terrestrial",
+    "link": "https://www.marinespecies.org/isopoda/aphia.php?p=taxdetails&id=1006664"
+  },
+  {
+    "aphiaID": "1006665",
+    "parentAphiaID": "1006664",
+    "rank": "species",
+    "scientificName": "singularis",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "subphylum": "Crustacea",
+      "class": "Malacostraca",
+      "subclass": "Eumalacostraca",
+      "order": "Isopoda",
+      "suborder": "Oniscidea",
+      "family": "Spelaeoniscidae",
+      "genus": "Uncuniscus",
+      "species": "singularis"
+    },
+    "metadata": {
+      "scrutinizer": {
+        "name": "Taiti, Stefano",
+        "id": "https://marineinfo.org/id/person/16651",
+        "date": "2017-06-30"
+      },
+      "referenceID": "279123"
+    },
+    "environment": "terrestrial",
+    "link": "https://www.marinespecies.org/isopoda/aphia.php?p=taxdetails&id=1006665",
+    "distribution": [
+      {
+        "area": "Algeria",
+        "areaID": "http://marineregions.org/mrgid/2152",
+        "gazetteer": "mrgid",
+        "mrgid": 2152
+      }
+    ]
+  },
+  {
+    "aphiaID": "1006666",
+    "parentAphiaID": "1006664",
+    "rank": "species",
+    "scientificName": "elegans",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "subphylum": "Crustacea",
+      "class": "Malacostraca",
+      "subclass": "Eumalacostraca",
+      "order": "Isopoda",
+      "suborder": "Oniscidea",
+      "family": "Spelaeoniscidae",
+      "genus": "Uncuniscus",
+      "species": "elegans"
+    },
+    "metadata": {
+      "scrutinizer": {
+        "name": "Taiti, Stefano",
+        "id": "https://marineinfo.org/id/person/16651",
+        "date": "2017-06-30"
+      },
+      "referenceID": "279123"
+    },
+    "environment": "terrestrial",
+    "link": "https://www.marinespecies.org/isopoda/aphia.php?p=taxdetails&id=1006666",
+    "distribution": [
+      {
+        "area": "Algeria",
+        "areaID": "http://marineregions.org/mrgid/2152",
+        "gazetteer": "mrgid",
+        "mrgid": 2152
+      }
+    ]
+  },
+  {
+    "aphiaID": "1006667",
+    "parentAphiaID": "1006664",
+    "rank": "species",
+    "commonNames" : {
+      "en": "hallo"
+    },
+    "scientificName": "hamatus",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "subphylum": "Crustacea",
+      "class": "Malacostraca",
+      "subclass": "Eumalacostraca",
+      "order": "Isopoda",
+      "suborder": "Oniscidea",
+      "family": "Spelaeoniscidae",
+      "genus": "Uncuniscus",
+      "species": "hamatus"
+    },
+    "metadata": {
+      "scrutinizer": {
+        "name": "Taiti, Stefano",
+        "id": "https://marineinfo.org/id/person/16651",
+        "date": "2017-06-30"
+      }
+    },
+    "environment": "terrestrial",
+    "link": "https://www.marinespecies.org/isopoda/aphia.php?p=taxdetails&id=1006667",
+    "distribution": [
+      {
+        "area": "Algeria",
+        "areaID": "http://marineregions.org/mrgid/2152",
+        "gazetteer": "mrgid",
+        "mrgid": 2152
+      }
+    ]
+  },
+  {
+    "aphiaID": "1006668",
+    "parentAphiaID": "248316",
+    "rank": "genus",
+    "scientificName": "Hybleoniscus",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "subphylum": "Crustacea",
+      "class": "Malacostraca",
+      "subclass": "Eumalacostraca",
+      "order": "Isopoda",
+      "suborder": "Oniscidea",
+      "family": "Spelaeoniscidae",
+      "genus": "Hybleoniscus"
+    },
+    "metadata": {
+      "scrutinizer": {
+        "name": "Boyko, Christopher B.",
+        "id": "https://marineinfo.org/id/person/16184",
+        "date": "2023-08-28"
+      },
+      "referenceID": "279123"
+    },
+    "environment": "terrestrial",
+    "link": "https://www.marinespecies.org/isopoda/aphia.php?p=taxdetails&id=1006668"
+  },
+  {
+    "aphiaID": "1006670",
+    "parentAphiaID": "1006668",
+    "rank": "species",
+    "scientificName": "vittoriensis",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "subphylum": "Crustacea",
+      "class": "Malacostraca",
+      "subclass": "Eumalacostraca",
+      "order": "Isopoda",
+      "suborder": "Oniscidea",
+      "family": "Spelaeoniscidae",
+      "genus": "Hybleoniscus",
+      "species": "vittoriensis"
+    },
+    "metadata": {
+      "scrutinizer": {
+        "name": "Taiti, Stefano",
+        "id": "https://marineinfo.org/id/person/16651",
+        "date": "2017-06-30"
+      },
+      "referenceID": "279123"
+    },
+    "environment": "terrestrial",
+    "link": "https://www.marinespecies.org/isopoda/aphia.php?p=taxdetails&id=1006670",
+    "distribution": [
+      {
+        "area": "Sicily",
+        "areaID": "http://marineregions.org/mrgid/3516",
+        "gazetteer": "mrgid",
+        "mrgid": 3516
+      }
+    ]
+  },{
+  "aphiaID": "264643",
+  "parentAphiaID": "262440",
+  "rank": "species",
+  "scientificName": "scaber",
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "subphylum": "Crustacea",
+    "class": "Malacostraca",
+    "subclass": "Eumalacostraca",
+    "order": "Isopoda",
+    "suborder": "Oniscidea",
+    "family": "Porcellionidae",
+    "genus": "Porcellio",
+    "species": "scaber"
+  },
+  "metadata": {
+    "scrutinizer": {
+      "name": "Boyko, Christopher B.",
+      "id": "https://marineinfo.org/id/person/16184",
+      "date": "2023-06-08"
+    }
+  },
+  "environment": "terrestrial",
+  "link": "https://www.marinespecies.org/isopoda/aphia.php?p=taxdetails&id=264643",
+  "distribution": [
+    {
+      "area": "Spain",
+      "areaID": "http://marineregions.org/mrgid/2185",
+      "gazetteer": "mrgid",
+      "referenceID": "628",
+      "mrgid": 2185
+    },
+    {
+      "area": "Portugal",
+      "areaID": "http://marineregions.org/mrgid/2243",
+      "gazetteer": "mrgid",
+      "referenceID": "628",
+      "mrgid": 2243
+    }
+  ]
+},
+  {
+    "aphiaID": "264645",
+    "parentAphiaID": "262447",
+    "rank": "species",
+    "scientificName": "simulator",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "subphylum": "Crustacea",
+      "class": "Malacostraca",
+      "subclass": "Eumalacostraca",
+      "order": "Isopoda",
+      "suborder": "Oniscidea",
+      "family": "Porcellionidae",
+      "genus": "Porcellio",
+      "species": "simulator"
+    },
+    "metadata": {
+      "scrutinizer": {
+        "name": "Boyko, Christopher B.",
+        "id": "https://marineinfo.org/id/person/16184",
+        "date": "2023-08-11"
+      }
+    },
+    "environment": "terrestrial",
+    "link": "https://www.marinespecies.org/isopoda/aphia.php?p=taxdetails&id=264645",
+    "distribution": [
+      {
+        "area": "Canary Islands",
+        "areaID": "http://marineregions.org/mrgid/3743",
+        "gazetteer": "mrgid",
+        "referenceID": "628",
+        "mrgid": 3743
+      }
+    ]
+  },
+  {
+    "aphiaID": "264649",
+    "parentAphiaID": "262504",
+    "rank": "species",
+    "scientificName": "cilicius",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "subphylum": "Crustacea",
+      "class": "Malacostraca",
+      "subclass": "Eumalacostraca",
+      "order": "Isopoda",
+      "suborder": "Oniscidea",
+      "family": "Porcellionidae",
+      "genus": "Porcellionides",
+      "species": "cilicius"
+    },
+    "metadata": {
+      "scrutinizer": {
+        "name": "Boyko, Christopher B.",
+        "id": "https://marineinfo.org/id/person/16184",
+        "date": "2023-12-05"
+      }
+    },
+    "environment": "terrestrial",
+    "link": "https://www.marinespecies.org/isopoda/aphia.php?p=taxdetails&id=264649",
+    "distribution": [
+      {
+        "area": "Cyprus",
+        "areaID": "http://marineregions.org/mrgid/3862",
+        "gazetteer": "mrgid",
+        "referenceID": "628",
+        "mrgid": 3862
+      }
+    ]
+  }
+]
